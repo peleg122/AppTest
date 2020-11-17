@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
+//test
 public class CustomerRegisterPageActivity extends AppCompatActivity {
 
     private Button signUpBtn;
