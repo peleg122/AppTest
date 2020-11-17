@@ -1,0 +1,45 @@
+<resources>
+    //App functionality
+    <string name="app_name">IceCream</string>
+
+    //Guidelines by user instance
+    <string name="welcome_new_user">ברוכים הבאים</string>
+    <string name="welcome_old_user">ברוכים השבים</string>
+
+    //App buttons
+    <string name="connectivety_text">התחברות</string>
+    <string name="register_txt">הרשמה</string>
+    <string name="registration_txt">רישום כאן</string>
+    <string name="login_txt">התחבר</string>
+    <string name="business_login_txt">התחבר לעסק</string>
+    <string name="business_registration_txt">הרשמה לעסקים</string>
+    <string name="customer_txt">לקוח</string>
+    <string name="business_owner_txt">בעל עסק</string>
+    <string name="sign_out">יציאה מהחשבון</string>
+    <string name="invite_product_txt">הזמן עכשיו</string>
+    <string name="abort_product_invite_txt">ביטול ההזמנה</string>
+    <string name="my_profile_txt">הפרופיל שלי</string>
+    <string name="user_private_sector">איזור אישי</string>
+
+    //Customers
+    <string name="user_name">Full name: </string>
+    <string name="user_email">E-mail address: </string>
+    <string name="user_password">Password: </string>
+    <string name="user_retype_password">Re-type password: </string>
+    <string name="user_phone_number">Phone number: </string>
+
+    //Business owners
+    <string name="login_to_business">Login to Business</string>
+    <string name="b_register">New business registration</string>
+    <string name="b_user_name">Business name:  </string>
+    <string name="b_owner_name">Business owner name: </string>
+    <string name="b_user_email">Business E-mail: </string>
+    <string name="b_user_password">Password: </string>
+    <string name="b_user_retype_password">Re-type Password: </string>
+    <string name="b_user_phone_number">Business phone number: </string>
+    <string name="b_register_business">Register your busines here.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
