@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class CustomerLoginPageActivity extends AppCompatActivity {
-
+    //test
     private Button customerRegisterBtn;
     private Button customerLoginBtn;
 
